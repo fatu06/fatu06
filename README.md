@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fatu06
 - 👀 I’m interested in learning more about software development and expanding my creativity.
-- 🌱 I’m currently learning Javascript and Python:D.
+- 🌱 I’m currently learning Javascript and Python :D.
 - 📫 How to reach me: fatusakanoko@gmail.com
 
 <!---
